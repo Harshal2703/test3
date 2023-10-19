@@ -14,7 +14,7 @@
     "agora-token": "^2.0.3",
     "chess.js": "^1.0.0-beta.6",
     "jose": "^4.15.4",
-    "mongodb": "^6.1.0",
+    "mongodb": "2.2.35",
     "socket.io": "^4.7.2",
     "uuid": "^9.0.1"
   }
